@@ -23,3 +23,12 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+# NOTE
+1.The URL of the GitHub repository.
+
+https://github.com/shruthisalimath/Accessibility-challenge
+
+2.The URL of the functional, deployed application on GitHub Pages.
+
+https://shruthisalimath.github.io/Accessibility-challenge/
+
